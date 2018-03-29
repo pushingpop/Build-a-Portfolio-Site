@@ -1,0 +1,86 @@
+
+@media screen and (max-width: 599px){
+header {
+    text-align: center;
+    padding: 20px 0;
+}
+.row{
+  text-align: center;
+}
+
+h1, h5{
+  text-align: center;
+}
+
+.low-pad{
+  margin-bottom: 30px;
+}
+
+}
+
+@media screen and (max-width: 768px){
+  .low-pad{
+    margin-bottom: 30px;
+  }
+}
+header{
+  width: 100%;
+}
+
+.col-lg-4{
+  text-align: center;
+}
+
+.logo{
+  float: left;
+  margin-top: 20px;
+}
+
+.autor{
+  text-align: right;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.cols{
+  float: left;
+  margin: 0 auto;
+  padding: 0px;
+  width: 100%;
+}
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.featured-work{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.works{
+  text-align: center;
+}
+
+.links{
+  text-decoration: none;
+  color: #000;
+}
+
+.cards{
+  border: 1px solid;
+  box-shadow: 2px 2px 4px 0;
+}
+
+hr{
+  height: 3px;
+  clear: both;
+  background-color: #7d97ad;
+  display: block;
+}
+
+article{
+
+}

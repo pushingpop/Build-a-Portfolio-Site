@@ -1,9 +1,9 @@
-
 @media screen and (max-width: 599px){
 header {
     text-align: center;
     padding: 20px 0;
 }
+
 .row{
   text-align: center;
 }
@@ -23,6 +23,7 @@ h1, h5{
     margin-bottom: 30px;
   }
 }
+
 header{
   width: 100%;
 }
@@ -40,12 +41,13 @@ header{
   text-align: right;
   margin-top: 20px;
   margin-bottom: 10px;
+  padding-right: 0;
 }
 
 .cols{
   float: left;
   margin: 0 auto;
-  padding: 0px;
+  padding: 0;
   width: 100%;
 }
 
@@ -79,8 +81,4 @@ hr{
   clear: both;
   background-color: #7d97ad;
   display: block;
-}
-
-article{
-
 }
